@@ -5,9 +5,9 @@
 
 [221227_마크다운 문법 정리](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/markdown.md)
 
-[221227 Git 명령어 정리(1)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/addcommit.md)
+[221227_Git 명령어 정리(1)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/addcommit.md)
 
-[221228 Git 명령어 정리(2)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/pushpullcloneignore.md)
+[221228_Git 명령어 정리(2)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/pushpullcloneignore.md)
 
 💚 About Me
 - Ewha Womans University Computer Science & Engineering
