@@ -11,6 +11,8 @@
 
 [221229_Git 명령어 정리(3)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/pushpullcloneignore.md)
 
+[221230_관심 직무 탐색 및 필수 역량 체크](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/JobExploration.md)
+
 💚 About Me
 - Ewha Womans University Computer Science & Engineering
 - 24세 | ESFP | Frontend Developer, UX Designer
