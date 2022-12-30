@@ -9,6 +9,8 @@
 
 [221228_Git 명령어 정리(2)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/pushpullcloneignore.md)
 
+[221229_Git 명령어 정리(3)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/pushpullcloneignore.md)
+
 💚 About Me
 - Ewha Womans University Computer Science & Engineering
 - 24세 | ESFP | Frontend Developer, UX Designer
