@@ -13,6 +13,8 @@
 
 [221230_관심 직무 탐색 및 필수 역량 체크](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/JobExploration.md)
 
+[230102 Python 기초(1)](https://github.com/alotofmilk/TIL_2023-Python-Full-stack-camp/blob/main/230102_%EC%8B%A4%EC%8A%B5.py)
+
 💚 About Me
 - Ewha Womans University Computer Science & Engineering
 - 24세 | ESFP | Frontend Developer, UX Designer
