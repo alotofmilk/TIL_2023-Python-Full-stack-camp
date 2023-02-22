@@ -15,7 +15,6 @@
 
 
 💚 About Me
-- Ewha Womans University Computer Science & Engineering
 - 24세 | ESFP | Frontend Developer, UX Designer
 - 2022-2 이화여자대학교 컴퓨터공학과 캡스톤디자인과창업프로젝트 포스터세션 장려상 수상
 - EVO Museum : 언리얼 엔진을 이용한 실감형 온라인 가상 전시 플랫폼 프로젝트 개발
